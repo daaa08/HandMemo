@@ -39,3 +39,4 @@
             return true;  // 리턴이 false가되면 터치 이벤트를 연속해서 발생 하지 않음. 즉 드래그시 onTouchEvent가 호출되지 않음
         }
 ```
+[전체 소스 보기](https://github.com/daaa08/HandMemo/blob/master/app/src/main/java/com/example/da08/handmemo/MainActivity.java)
